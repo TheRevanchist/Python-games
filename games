@@ -1,0 +1,35 @@
+Guess the number
+On this game computer choose a number within an interval and you have to find it. Use binary search for best results.
+The game can be found here:
+
+http://www.codeskulptor.org/#user21_kCkwhJwvawt73EQ.py
+
+
+
+Stopwatch
+The task of the game is to press 'Stop' when the timer is on an integer number.
+The game can be found here:
+
+http://www.codeskulptor.org/#user22_ORMxYwcZ0LTn1pi.py
+
+
+Pong
+The famous arcade game Pong.
+The game can be found here:
+
+http://www.codeskulptor.org/#user23_6Jc2DbTjcKx1pxV.py
+
+
+Memory
+A memory card game. The goal of the game is to pick 2 cards with the same number. If you do this they get open, otherwise the cards
+get closed. The game finishes when you find all the pairs.
+The game can be found here:
+
+http://www.codeskulptor.org/#user24_vh4lgynb7t_1.py
+
+
+Blackjack
+An implementation of Blackjack game.
+The game can be found here:
+
+http://www.codeskulptor.org/#user26_y8QXuK6pJVG6x0U_0.py
